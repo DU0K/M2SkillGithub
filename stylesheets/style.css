@@ -97,8 +97,19 @@ footer #verticalLine{
     margin-right: 1.5rem;
 }
 
-.Sven div{
+.Sven{
     display: flex;
+    padding: 5rem;
+    background-color: rgb(255, 247, 228);
+}
+
+.Sven p{
+
+}
+
+.Sven div{
+    width: 50%;
+    margin-left: 5rem;
 }
 
 .Sven img{
